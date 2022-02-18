@@ -1,7 +1,7 @@
 # drawing-whiteboard
 art285: lesson with @frzbox
 
-[view site](https://lummelis.github.io/drawing-whiteboard/)
+[view site](https://lummelis.github.io/drawing-whiteboard/finished/)
 
 # Drawing Pad
 An interactive drawing pad built with html canvas
